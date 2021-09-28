@@ -526,6 +526,7 @@ section .heading::after{
     object-fit: cover;
     transform: translate3d(0,0,75px);
     transition: 0.5s;
+    filter: brightness(1.5)
 }
 .friend .row .l-card img:hover{
     transform: translateY(25%);
