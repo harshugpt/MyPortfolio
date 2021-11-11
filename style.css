@@ -11,7 +11,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: url("back3.jpg") no-repeat center;
+    background: url("Images/back3.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
@@ -108,7 +108,7 @@ body{
 /*home section styling*/
 .home{
     display: flex;
-    background: url("back3.jpg") no-repeat center;
+    background: url("Images/back3.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
@@ -129,7 +129,7 @@ body{
     margin-left: -3px;
     color: transparent;
     -webkit-text-stroke: 1px black;
-    background: url(wallpaper.png);
+    background: url("Images/wallpaper.png");
     background-clip: unset;
     -webkit-background-clip: text;
     background-position: 0 0;
